@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1908598",
+      "name": "腾讯新闻",
+      "font_class": "tengxunxinwen",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "1925365",
+      "name": "用户",
+      "font_class": "iconfontcolor19-copy",
+      "unicode": "e565",
+      "unicode_decimal": 58725
+    },
+    {
+      "icon_id": "4854183",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "4988086",
+      "name": "刷新",
+      "font_class": "shuaxin",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    }
+  ]
+}
